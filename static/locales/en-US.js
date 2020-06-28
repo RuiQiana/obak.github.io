@@ -2,7 +2,7 @@ export const lang = {
     message: {
         ljcy: 'participate',
         ljhy: 'welcome',
-        msg: 'During the ultimate Coin runner event of Ethereum 2.0 Super Node election 2020, the first time you place an order and successfully sell the insurance, you will be eligible to share the bonus!',
+        msg: 'Warmly welcome you to participate in the 2020 Ethereum 2.0 super node campaign evangelist, the obak smart contract is open-source in the whole process, and welcome the global players to jointly supervise',
         zhdz: 'address',
         zhdj: 'level',
         cy: 'participation',
@@ -45,5 +45,20 @@ export const lang = {
         srtxje: 'Enter the withdrawal amount',
         qr: 'confirm',
         qx: 'cancel',
+        g: 'an',
+        hint: 'Please enter t',
+        hintNumber: 'Please enter the number of etc',
+        tzgz: 'Single investment cannot be higher than 20',
+        tjcg: 'Submitted successfully',
+        nodata: `There's no data`,
+        txz: 'Withdrawing',
+        qsrzq: 'Please input correctly',
+        hintMin: 'The value entered must be greater than 0.05',
+        gj: 'champion',
+        yj: 'runner-up',
+        jj: 'Third place',
+        bl: 'This round',
+        ztsl: 'Direct push quantity',
+        grdz: 'Personal address'
     }
 }
